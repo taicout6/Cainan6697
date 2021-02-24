@@ -10,6 +10,8 @@ In my free time I like to read mangá, listen to music, playing sports and I lov
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cainan6697&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cainan6697&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 Would you like to find me?
 
 [LinkedIn](https://www.linkedin.com/in/cainan-coutinho/)
