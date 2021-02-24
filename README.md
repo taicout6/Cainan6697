@@ -10,9 +10,9 @@ In my free time I like to read mangá, listen to music, playing sports and I lov
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cainan6697)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cainan6697&count_private=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cainan6697&show_icons=true&theme=radical)
 
 Would you like to find me?
 
