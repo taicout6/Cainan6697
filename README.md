@@ -6,7 +6,6 @@
 My name is Cainan from Brazil. 
 I am currently studying Software Development at [Trybe](https://www.betrybe.com/).
 
-In my free time I like to read mangá, listen to music and practice martial arts.
 
 **Languages and Tools:**  
 
