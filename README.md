@@ -3,7 +3,7 @@
 <!--
 **Cainan6697/Cainan6697** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-My name is Cainan from Brazil. 
+My name is Taina from Brazil. 
 I am currently studying Software Development at [Trybe](https://www.betrybe.com/).
 
 
