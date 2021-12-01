@@ -24,8 +24,8 @@ I am currently studying Software Development at [Trybe](https://www.betrybe.com/
 <!--  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>  -->
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cainan6697&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cainan6697&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taicout6&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taicout6&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 Would you like to find me?
 
-[LinkedIn](https://www.linkedin.com/in/cainan-coutinho/)
+[LinkedIn](https://www.linkedin.com/in/taina-coutinho/)
