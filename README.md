@@ -23,6 +23,7 @@ I am currently studying Software Development at [Trybe](https://www.betrybe.com/
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/heroku.png" alt="heroku" width="40" height="40"/>
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taicout6&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taicout6&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
