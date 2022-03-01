@@ -1,13 +1,14 @@
-### Hi there!
+###  ✨✨ Bem vindes ✨✨
 
 <!--
 **taicout6/taicout6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-My name is Tainá and I'm from Brazil. 
-I am currently studying Software Development at [Trybe](https://www.betrybe.com/).
+Sou Tai, tenho 24 anos e sou apaixonada por tecnologia.
+
+Atualmente estudo Desenvolvimento de Software na [Trybe](https://www.betrybe.com/).
 
 
-**Languages and Tools:**  
+**Algumas das tecnologias que tive contato:**  
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -28,6 +29,6 @@ I am currently studying Software Development at [Trybe](https://www.betrybe.com/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taicout6&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taicout6&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-Would you like to find me?
+Gotaria de entrar em contato?
 
 [LinkedIn](https://www.linkedin.com/in/taina-coutinho/)
