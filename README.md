@@ -4,11 +4,14 @@
 
 <div align="center">
   <h2>✨✨ Bem vindes ✨✨</h2>
-  <p>Sou Tai, tenho 24 anos e sou apaixonada por tecnologia.</p>
-  Atualmente estudo Desenvolvimento de Software na [Trybe](https://www.betrybe.com/).
-  <br>
   
+  <p>Sou Tai, tenho 24 anos e sou apaixonada por tecnologia.</p>
+  
+  Atualmente estudo Desenvolvimento de Software na [Trybe](https://www.betrybe.com/).
+
   <br>
+  <br>
+
   <a href="https://github.com/oelithon">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=taicout6&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taicout6&layout=compact&langs_count=7&theme=github_dark"/>
