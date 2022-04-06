@@ -10,7 +10,6 @@
   Atualmente estudo Desenvolvimento de Software na [Trybe](https://www.betrybe.com/).
 
   <br>
-  <br>
 
   <a href="https://github.com/oelithon">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=taicout6&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
