@@ -1,34 +1,37 @@
-###  ✨✨ Bem vindes ✨✨
-
 <!--
 **taicout6/taicout6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Sou Tai, tenho 24 anos e sou apaixonada por tecnologia.
 
-Atualmente estudo Desenvolvimento de Software na [Trybe](https://www.betrybe.com/).
+<div align="center">
+  <h2>✨✨ Bem vindes ✨✨</h2>
+  <p>Sou Tai, tenho 24 anos e sou apaixonada por tecnologia.</p>
+  Atualmente estudo Desenvolvimento de Software na [Trybe](https://www.betrybe.com/).
+  <br>
+  
+  <br>
+  <a href="https://github.com/oelithon">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=taicout6&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taicout6&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
 
-
-**Algumas das tecnologias que tive contato:**  
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/heroku.png" alt="heroku" width="40" height="40"/>
-</p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taicout6&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taicout6&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-Gotaria de entrar em contato?
+<div align="center" style="display: inline_block">
+  <h3>**Algumas das tecnologias que tive contato:**</h3>
+    <img align="center" alt="Icon-Git" src="https://icongr.am/devicon/git-original.svg?size=27&color=currentColor">
+    <img align="center" alt="Icon-HTML" src="https://icongr.am/devicon/html5-original.svg?size=27&color=currentColor">
+    <img align="center" alt="Icon-CSS" src="https://icongr.am/devicon/css3-original.svg?size=27&color=currentColor">
+    <img align="center" alt="Icon-JavaScript" src="https://icongr.am/devicon/javascript-original.svg?size=27&color=currentColor">
+    <img align="center" alt="Icon-React" src="https://icongr.am/devicon/react-original.svg?size=27&color=currentColor">
+    <img align="center" alt="Icon-Redux" height="32" src="https://redux.js.org/img/redux.svg">
+    <img align="center" alt="Icon-Jest" height="25" src="https://user-images.githubusercontent.com/85764731/154803983-010a6f92-0d75-4351-a453-4ecdfa8d0da7.png">
+    <img align="center" alt="Icon-Chai" height="27" src="https://www.chaijs.com/img/chai-logo-small.png">
+    <img align="center" alt="Icon-Docker" src="https://icongr.am/devicon/docker-original.svg?size=27&color=currentColor">
+    <img align="center" alt="Icon-MySQL" src="https://icongr.am/devicon/mysql-original.svg?size=27&color=currentColor">
+    <img align="center" alt="Icon-Node.js" src="https://icongr.am/devicon/nodejs-original.svg?size=27&color=currentColor">
+    <img align="center" alt="Icon-Sequelize" src="https://icongr.am/devicon/sequelize-original.svg?size=27&color=currentColor">
+    <img align="center" alt="Icon-Heroku" src="https://icongr.am/devicon/heroku-original.svg?size=27&color=currentColor">
+    <img align="center" alt="Icon-TypeScript" src="https://icongr.am/devicon/typescript-original.svg?size=27&color=currentColor">
+  <h4>Gotaria de entrar em contato?</h4>
 
 [LinkedIn](https://www.linkedin.com/in/taina-coutinho/)
+</div>
+
