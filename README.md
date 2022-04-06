@@ -34,6 +34,7 @@
     <img align="center" alt="Icon-TypeScript" src="https://icongr.am/devicon/typescript-original.svg?size=27&color=currentColor">
   <h4>Gotaria de entrar em contato?</h4>
 
-[LinkedIn](https://www.linkedin.com/in/taina-coutinho/)
+<!-- [LinkedIn](https://www.linkedin.com/in/taina-coutinho/) -->
+  <a href="https://www.linkedin.com/in/taina-coutinho/"><img height="25" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
