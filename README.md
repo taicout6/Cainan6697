@@ -5,7 +5,7 @@
 <div align="center">
   <h2>✨✨ Bem vindes ✨✨</h2>
   
-  <p>Sou Tai ✨🏳️‍⚧️✨ gosto de artes e tecnologia.</p>
+  <p>Sou Tai ✨🏳️‍⚧️✨, menina curiosa que gosta muito de artes, ciências e tecnologia.</p>
   
   Atualmente estudo Desenvolvimento de Software na [Trybe](https://www.betrybe.com/).
 
