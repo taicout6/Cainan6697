@@ -7,7 +7,7 @@
   
   <p>Sou a Tai ✨🏳️‍⚧️✨, menina curiosa que gosta muito de artes, ciências e tecnologia.</p>
   
-  Atualmente estudo Desenvolvimento de Software na [Trybe](https://www.betrybe.com/).
+  Desenvolvedora de Software.
 
   ##
   <br>
