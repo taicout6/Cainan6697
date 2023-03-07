@@ -10,7 +10,7 @@
   Desenvolvedora de Software.
 
   ##
-  <br>
+  <!-- <br> -->
   
  <!--
   <a href="https://github.com/taicout6">
@@ -19,7 +19,7 @@
 </div>
 -->
   
-  ##
+  <!-- ## -->
 
 <div align="center" style="display: inline_block">
   <h3>Algumas das tecnologias que tive contato:</h3>
