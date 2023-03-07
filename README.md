@@ -12,7 +12,7 @@
   ##
   <br>
   
-  <a href="https://github.com/oelithon">
+  <a href="https://github.com/taicout6">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=taicout6&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taicout6&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
