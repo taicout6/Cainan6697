@@ -22,7 +22,7 @@
   <!-- ## -->
 
 <div align="center" style="display: inline_block">
-  <h3>Algumas das tecnologias que tive contato:</h3>
+  <!-- <h3>Algumas das tecnologias que tive contato:</h3>
     <img align="center" alt="Icon-Git" src="https://icongr.am/devicon/git-original.svg?size=27&color=currentColor">
     <img align="center" alt="Icon-HTML" src="https://icongr.am/devicon/html5-original.svg?size=27&color=currentColor">
     <img align="center" alt="Icon-CSS" src="https://icongr.am/devicon/css3-original.svg?size=27&color=currentColor">
@@ -37,6 +37,7 @@
     <img align="center" alt="Icon-Sequelize" src="https://icongr.am/devicon/sequelize-original.svg?size=27&color=currentColor">
     <img align="center" alt="Icon-Heroku" src="https://icongr.am/devicon/heroku-original.svg?size=27&color=currentColor">
     <img align="center" alt="Icon-TypeScript" src="https://icongr.am/devicon/typescript-original.svg?size=27&color=currentColor">
+  -->
   <h4>Gotaria de entrar em contato?</h4>
 
 <!-- [LinkedIn](https://www.linkedin.com/in/taina-coutinho/) -->
